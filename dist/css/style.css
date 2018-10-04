@@ -36,6 +36,7 @@ html {
 	text-align: center;
 }
 .container {
+	filter:brightness(125%);
 	margin: 0 auto;
 	max-width: 1280px;
 	width: 90%;
